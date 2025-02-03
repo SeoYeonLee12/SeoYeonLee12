@@ -1,4 +1,5 @@
 ## Hi there 👋
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yjmlp12)](https://solved.ac/yjmlp12/)
 
 <!--
 **SeoYeonLee12/SeoYeonLee12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
